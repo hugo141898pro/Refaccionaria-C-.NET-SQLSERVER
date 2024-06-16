@@ -1,0 +1,22 @@
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\bin\Debug\net8.0-windows\tarea de base.exe
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\bin\Debug\net8.0-windows\tarea de base.deps.json
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\bin\Debug\net8.0-windows\tarea de base.runtimeconfig.json
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\bin\Debug\net8.0-windows\tarea de base.dll
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\bin\Debug\net8.0-windows\tarea de base.pdb
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\obj\Debug\net8.0-windows\tarea de base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\obj\Debug\net8.0-windows\tarea de base.AssemblyInfoInputs.cache
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\obj\Debug\net8.0-windows\tarea de base.AssemblyInfo.cs
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\obj\Debug\net8.0-windows\tarea de base.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\obj\Debug\net8.0-windows\tarea de base.dll
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\obj\Debug\net8.0-windows\refint\tarea de base.dll
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\obj\Debug\net8.0-windows\tarea de base.pdb
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\obj\Debug\net8.0-windows\tarea de base.genruntimeconfig.cache
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\obj\Debug\net8.0-windows\ref\tarea de base.dll
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\obj\Debug\net8.0-windows\tarea de base.csproj.AssemblyReference.cache
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\Parcial 3\PROGRAMACION TAREA\tarea de base\obj\Debug\net8.0-windows\tarea de base.csproj.CopyComplete
